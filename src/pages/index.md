@@ -6,9 +6,6 @@ sections:
     subtitle: Leave IT to us
     content: ''
     actions:
-      - label: Try Free
-        url: /pricing
-        style: primary
       - label: Learn More
         url: /features
         style: secondary
