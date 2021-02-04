@@ -4,9 +4,7 @@ sections:
   - type: hero_section
     title: Digitize Your Business
     subtitle: Leave IT to us
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel.
+    content: ''
     actions:
       - label: Try Free
         url: /pricing
