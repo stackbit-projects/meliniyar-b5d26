@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Digitize Your Business
-    subtitle: Optional hero section subtitle
+    subtitle: Leave IT to us
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel.
