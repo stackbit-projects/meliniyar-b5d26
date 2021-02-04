@@ -5,10 +5,7 @@ sections:
     title: Digitize Your Business
     subtitle: Leave IT to us
     content: ''
-    actions:
-      - label: Learn More
-        url: /features
-        style: secondary
+    actions: []
     image: images/classic/hero.png
     image_alt: Hero section placeholder image
     media_position: left
